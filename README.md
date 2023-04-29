@@ -10,6 +10,8 @@ Regarding the field of ``ophthalmology``, early detection and accurate diagnosis
 
 **Kaggle dataset:** https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 
+**Link to the prepared dataset:** https://drive.google.com/drive/folders/1HEti1Qv_-iXiOf2zp2amG8XFgk-HPuLj?usp=sharing
+
 ### **Notebooks**
 
 **1. explore**
